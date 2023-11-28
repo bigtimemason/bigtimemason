@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bigtimemason
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me stuff@stuff.com
+- 👋 Hi, I’m Mason
+- 👀 I’m interested in many things
+- 🌱 I’m currently at Virginia Tech
+- 📫 How to reach me mhmiller04@gmail.com
 
 <!---
 bigtimemason/bigtimemason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
